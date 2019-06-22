@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<litepal>
+
+    <dbname value="tv_show" />
+
+    <version value="4" />
+
+    <list>
+        <mapping class="cn.cslg.bigtask.db.User" />
+        <mapping class="cn.cslg.bigtask.db.Like" />
+    </list>
+
+</litepal>
